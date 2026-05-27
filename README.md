@@ -210,7 +210,7 @@ This project is released under the MIT License.
 
 ## Acknowledgements
 
-We sincerely thank [FollowYourCanvas](https://github.com/mayuelala/FollowYourCanvas) for providing the dataset and benchmark for video outpainting research. We also gratefully acknowledge [RGVI](https://github.com/suhwan-cho/rgvi) and [FFF-VDI](https://github.com/Hydragon516/FFF-VDI), which provided valuable inspiration for our work. In addition, our implementation benefits from the open-source contributions of [RAFT](https://github.com/princeton-vl/RAFT) for optical flow estimation and [ProPainter](https://github.com/sczhou/ProPainter) for flow completion. We thank the authors and the research community for their valuable contributions.
+We sincerely thank [Follow Your Canvas](https://github.com/mayuelala/FollowYourCanvas) for providing the dataset and benchmark for video outpainting research. We also gratefully acknowledge [RGVI](https://github.com/suhwan-cho/rgvi) and [FFF-VDI](https://github.com/Hydragon516/FFF-VDI), which provided valuable inspiration for our work. In addition, our implementation benefits from the open-source contributions of [RAFT](https://github.com/princeton-vl/RAFT) for optical flow estimation and [ProPainter](https://github.com/sczhou/ProPainter) for flow completion. We thank the authors and the research community for their valuable contributions.
 
 ---
 
