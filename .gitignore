@@ -1,0 +1,123 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+conda_env/
+miniconda3/
+
+# Logs
+*.log
+logs/
+runs/
+wandb/
+tensorboard/
+events.out.tfevents.*
+
+# Checkpoints / weights
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+*.onnx
+checkpoints/
+weights/
+pretrained/
+pretrained_models/
+
+# Datasets / outputs
+dataset/
+datasets/
+outputs/
+output/
+results/
+vis/
+visualizations/
+samples/
+
+# Cache
+.cache/
+*.cache
+.cache*
+huggingface/
+.hf/
+tmp/
+temp/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Large media
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Generated results / demo outputs
+challenge_vo_input/
+completed_flow/
+experiment_videos/
+final_output/
+final_output_025/
+final_output_all_frames_033/
+full_vo/
+full_vo_video/
+mask_025_videos/
+mask_033_videos_all_frames/
+real_final_output_all_frames_033/
+real_mask_033_videos_all_frames/
+result/
+result_025/
+vertiacal_vo/
+vertiacal_vo_video/
+videos/
+
+# Local generated files
+ref_stats.csv
+
+# Generated results / demo outputs
+challenge_vo_input/
+completed_flow/
+experiment_videos/
+final_output/
+final_output_025/
+final_output_all_frames_033/
+full_vo/
+full_vo_video/
+mask_025_videos/
+mask_033_videos_all_frames/
+real_final_output_all_frames_033/
+real_mask_033_videos_all_frames/
+result/
+result_025/
+vertiacal_vo/
+vertiacal_vo_video/
+videos/
+
+# Local generated files
+ref_stats.csv
+
+# Local experiment files
+demo/
+experiments/
+rec_para.txt
+rec_para_train.txt
